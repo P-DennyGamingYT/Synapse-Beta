@@ -3,7 +3,9 @@
 
 The most sought after .exe file in roblox exploiting history. The Synapse X v3 Beta. Now finally available to the public.
 
+VT: https://www.virustotal.com/gui/file/d3688ff43eec6ec7763c19367dc38554b7de317f7f96915a1a0c1c8d0919f87e
 
+ANTIVIRUS DETECTIONS ARE FALSE POSITIVE!
 
 
 ## How I got it?
